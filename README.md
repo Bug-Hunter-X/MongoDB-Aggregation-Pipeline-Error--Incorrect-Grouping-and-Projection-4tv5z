@@ -1,0 +1,2 @@
+# MongoDB Aggregation Pipeline Bug
+This repository demonstrates a common error in MongoDB aggregation pipelines, specifically concerning incorrect grouping and projection stages. The bug leads to inaccurate results when counting occurrences of values within a specific field. The solution provides a corrected pipeline to accurately perform the aggregation.  This is a simplified example, and real-world scenarios might involve more complex data structures and aggregation stages.  Review your aggregation pipelines carefully to avoid these types of errors.
